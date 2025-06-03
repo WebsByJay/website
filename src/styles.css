@@ -1,0 +1,9 @@
+const styles = {
+  container: {
+    backgroundColor: "#f0f4f8", // soft light blue color
+    minHeight: "100vh", // make sure it covers the full screen height
+    padding: "20px",
+  },
+  // ...other styles
+};
+
